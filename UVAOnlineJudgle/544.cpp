@@ -70,9 +70,6 @@ int main(void){
 			for (int j=0; j<n; j++) loads[i][j]=-1;
 		}
 
-
-
-
 		for (int i=0; i<r; i++){
 			char* str1 = new char[32]();
 			char* str2 = new char[32]();
